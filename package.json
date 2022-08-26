@@ -23,7 +23,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "Supradip Das",
+  "author": "Dhruv Chawla",
   "license": "ISC",
   "description": ""
 }
